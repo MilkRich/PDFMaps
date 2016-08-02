@@ -1,0 +1,10 @@
+﻿{"Version":"PDFMaps Maplist 1.1",
+
+"Name":"Mt_Amemaki",
+
+"Folder": [
+  {"Map":{"Path":"AmePdfmaps_a0.pdf"}},	
+  {"Map":{"Path":"AmePdfmaps_a0s.pdf"}}
+]
+
+}
