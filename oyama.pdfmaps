@@ -3,7 +3,7 @@
 "Name":"Oyama",
 
 "Folder": [
-  {"Map":{"URL":"http://192.168.10.6/~shingo/test/oyama.pdf"}, "KML":{"URL":"http://192.168.10.6/~shingo/test/oyama.kml"}}
+  {"Map":{"Path":"oyama.pdf", "KML":{"Path":"oyama.kmz"}}}
 ]
 
 }
